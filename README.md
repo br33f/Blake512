@@ -2,7 +2,9 @@
 Blake 512 (hash function) implementation.
 
 Manual:
-1. Compile
+
+1. Compile.
+
 2. Run via command prompt ( pass 1 parameter: string you want to hash ).
 
 For example:
